@@ -1,0 +1,6 @@
+Text,Tokens,Token Count,Input IDs,Attention Mask
+A beautiful red flower,a beautiful red flower,4,"[101, 1037, 3376, 2417, 6546, 102]","[1, 1, 1, 1, 1, 1]"
+A bright yellow sunflower,a bright yellow sun ##flower,5,"[101, 1037, 4408, 3756, 3103, 14156, 102]","[1, 1, 1, 1, 1, 1, 1]"
+A pink rose in a garden,a pink rose in a garden,6,"[101, 1037, 5061, 3123, 1999, 1037, 3871, 102]","[1, 1, 1, 1, 1, 1, 1, 1]"
+A purple flower with green leaves,a purple flower with green leaves,6,"[101, 1037, 6379, 6546, 2007, 2665, 3727, 102]","[1, 1, 1, 1, 1, 1, 1, 1]"
+A white flower in nature,a white flower in nature,5,"[101, 1037, 2317, 6546, 1999, 3267, 102]","[1, 1, 1, 1, 1, 1, 1]"
