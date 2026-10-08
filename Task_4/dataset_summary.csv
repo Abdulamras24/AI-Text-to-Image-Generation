@@ -1,0 +1,13 @@
+Metric,Value
+Dataset,Oxford-102 Flowers
+Training Images,1020
+Number of Classes,102
+Images Per Class - Minimum,10
+Images Per Class - Maximum,10
+Images Per Class - Average,10.0
+Minimum Image Width,500
+Maximum Image Width,919
+Average Image Width,624.49
+Minimum Image Height,500
+Maximum Image Height,993
+Average Image Height,537.78
